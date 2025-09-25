@@ -1,0 +1,21 @@
+.star{
+    margin: 10px;
+    background-color: gold;
+    color: gold;
+    display: inline-block;
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+
+.nostar{
+     margin: 10px;
+    background-color: black;
+    color: wheat;
+    display: inline-block;
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
